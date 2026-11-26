@@ -1,0 +1,13 @@
+CodigoEncuesta,CodigoCliente,NombreCliente,Correo,Segmento,CanalCompra,Calificacion,Comentario,FechaEncuesta
+ENC-201,CLI-1001,Carlos Méndez,carlos.mendez@correo.do,Corporativo,Tienda Física,5,Excelente atención en sucursal y entrega rápida,2026-08-12
+ENC-202,CLI-1002,Laura Peña,laura.pena@empresa.com,VIP,Web E-Commerce,4,El monitor llegó bien embalado pero tardó un día extra,2026-08-15
+ENC-203,CLI-1003,Miguel Ángel Rosario,mrosario@gmail.com,Minorista,App Móvil,5,Muy buena relación calidad precio en la laptop,2026-08-19
+ENC-204,CLI-1004,Sofía Almonte,salmonte@hotmail.com,Minorista,Web E-Commerce,3,El teclado funciona bien pero la caja vino golpeada,2026-09-02
+ENC-205,CLI-1005,Roberto Castillo,rcastillo@techcorp.do,Corporativo,Ventas B2B,5,Soporte técnico impecable para nuestra oficina,2026-09-08
+ENC-206,CLI-1001,Carlos Méndez,carlos.mendez@correo.do,Corporativo,Web E-Commerce,5,Segunda compra del mes y todo perfecto,2026-09-14
+ENC-207,CLI-1006,Patricia Guzmán,pguzman@outlook.com,VIP,App Móvil,4,Buena experiencia de compra desde el teléfono,2026-09-21
+ENC-208,CLI-1007,Andrés Núñez,anunez@correo.do,Minorista,Tienda Física,2,Tiempo de espera largo en caja el fin de semana,2026-10-03
+ENC-209,CLI-1008,Valeria Santana,vsantana@estudio.do,VIP,Web E-Commerce,5,La silla ergonómica superó mis expectativas,2026-10-11
+ENC-210,CLI-1009,Héctor Ramírez,hramirez@gmail.com,Minorista,App Móvil,4,Fácil de rastrear el pedido en tiempo real,2026-10-18
+ENC-211,CLI-1002,Laura Peña,laura.pena@empresa.com,VIP,Ventas B2B,5,Renovamos equipos de oficina sin inconvenientes,2026-11-04
+ENC-212,CLI-1010,Gabriela Ortiz,gortiz@correo.do,Minorista,Web E-Commerce,5,Muy satisfecha con la garantía y el servicio,2026-11-10
